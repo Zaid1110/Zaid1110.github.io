@@ -1,1 +1,88 @@
-JVBERi0xLjMKJenr8b8KMSAwIG9iago8PAovQ291bnQgMQovS2lkcyBbMyAwIFJdCi9NZWRpYUJveCBbMCAwIDU5NS4yOCA4NDEuODldCi9UeXBlIC9QYWdlcwo+PgplbmRvYmoKMiAwIG9iago8PAovT3BlbkFjdGlvbiBbMyAwIFIgL0ZpdEggbnVsbF0KL1BhZ2VMYXlvdXQgL09uZUNvbHVtbgovUGFnZXMgMSAwIFIKL1R5cGUgL0NhdGFsb2cKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL0NvbnRlbnRzIDQgMCBSCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyA3IDAgUgovVHlwZSAvUGFnZQo+PgplbmRvYmoKNCAwIG9iago8PAovRmlsdGVyIC9GbGF0ZURlY29kZQovTGVuZ3RoIDI0MjIKPj4Kc3RyZWFtCniclVhdd9o6Fn3vrzgvc1e6LjiWbWzovIxDSENLaBpoe+euvAhbAU2M7WvLpHT1x885sjGGQKEvIbYsaet87LOPLPjwxjQ6Hry8uZrC5Q0D1jVME6ZPMJjSK8uxDbcDntczuvg6hIu//eE1+DdT/+otTP9XfXZ5YwHDhZozO65hMfBcy7DKmddi9SnNYRDPZSxEtje9uzObeZ7R6YHneLQIzb7nKuYtuJILnrVgGIeSA/wE+LPHoOvaPbNn9xxPv/rBQ/6k+Ow/a75IEiNIlo29LLOjV7Ztw3T0ynOpFsWMPrv8m8uQMWbqZSIZP4tQxnpExpc/cFCvu4Oc0cFrk/0D+LJjG10XPMYMV2M3DcY8d+8nm+OZHj7dDCaT4aexP4LJl7s7/+G/1eLwGR3jeCZ93/x5eP+GGcxGh3WYYVqA7wy7B0voOI5huZvnCCYHDNtA5/Ycw+6U6DqeB9OXVw6CFzQMWH/CWvAsh+QJFjwO83YSg/ieikyKOBAwK2SERppDf3jZv4ZUpgINJ3LAbyEr4pjGgiRWHN9m8ocI4SXJnqOEh7hmDP63yfbITYBdPJ9NAJlhdSwN8PHig4ifZZy34DoJngUGwsdiJrJYKJFfDj5OWjAVWcafkmzZAj+bJ/3rx7cG9Ptjv60yQhACfkwACNaMB8/zLCkQ6VOWLGGR5KlUPILhFGT8lPFcZUWgikwYW4xbhK5neGVoX6ERFKRZEuLnMonbuVpHAtKIK8KS42pBVGgz8RgYay9lkCW5yFYSTcjTNJIBp4lkETxHafr3UqE/2jOeI+wQzboS2do4L/pcx63AHY2+6aB/Ox72KfQ+DkejhhvK0HIdZjjdbWhVz3Vosb2crTa2eoaj/XZRRsQf4BcqWerjvYNfZz2yDSZfY4nK3/B4sSwiJWcZj4PFNsge37bISrfFDHxt+Fw/t2Asvhf4/ySJefYZQwQDI5Or9Z7tDuJnHTqsxh8lRYhbY4g+vj0FneFsqzlbh+OgbyEKuwVf7/vIWv4dvXrAP6OrlrYLTAKOR5m3QO/2jatg0YKHpFACAbVgxJezkFejNxhL2o7nnMNEJ/bKc2yyL0dnfMqChcC4PukPHUzMs4xut7EY0pDNSrZ4lYFoqmuRRsl6KWJF1i/jOye6nmcix39u7308SxI/yfkdT/U3QSaUduStiDBrx++H4792sq3C0Oliunn6QNVyZ1ih49nE9uWkZkIDzxFHKE65tWNReWwsUxMMxSTme0Tny8QyQYfliitB/tbMIuKQjuXHuZwhGTxeIB2sZ0nyTBOSiKL3nBN0MBksvfVdEkuVZMQi6McZ0QefyUiq9alTeEjyVnOpe6Q7oRaCkuQ9nodTbcU4b0QhAuYRR/JqQcjzxSzhWXgmZAeTQNeWi0mQyVSViEcyLr6fQmpblD+NFa5w7xbcr9UiiSuIo2GrXAwhfpkVsSowY24HIxxe8h/IoHqQbJ+vcyWWYQuQbc9Jmo6NcV7G2HhbJv6gKC2yE3Yu86WKl3odZGfH0fky7d9fDu+xco2RF65v+/jv15E/RvP2ZR4kGBKFKgtECDnyf7Cgp8cLKl5QFS86E5IIRAIjGeuNXMlIzEWrBribOBUYholTGvM9bpLu582RCuL0PMO2ztcvg7/uBw/Dwbg/2C8kTs8i9qgLSfXcKCS9A75wvG6ln85Xjk34rlPpB9Ow7I6990Pwr0WkONiuWTMV3K8UjBQGzDhBsYfWf9CZ/fhWK8I7vkb9aDnQhnskIGS5A7LAcXoGK83dbiB1XTpNY5A0Q6i9vUTfEkHDpto1a92+rFL8uVRUoShFC6rTpVSApSSsyVcLqzIXsAw1JUOF0a7L1AGM28FvGFNiF+OW/yr2A3zQebmrmEgNrWSORYbgaj3TZElcMOZzQWAPwLOYYXvH4G0HH4p4XyTV5afcstSAwElt5SDilUQi0OMHdjU90jdHdt0ODmMl5hmdoZYX8E/BiYdhzlUlfbXe2ApfkEs8LuQBLxUxWjOpNd3Wva9R2b269NSodJiXuLbDDJPc1UwzEQqKFLYcrwFVNI9uq6uINhGPREbE8+/KJZW0LgHnO/W9Fu66gEVU5PTaO1lQ4epiopVeQu0rQwpKheyDlTDHpkzV24diJaIk1VGrBF/m+wL3EDfYmNy9TpOnf48c7I5p2O4vyeGOLzhGC9xiBmAa3m5ag5ohdEOqaeFDEQviBRt5YUMRB4jBxrzaj6+mJ+thRGGVDY8fLmUssYZlGNx1d4JV4/KbP95LuHcUbKirCvqWHL41t2qUGFSBraq+kHerEtQoTsccalkGK1mBipfO+gBjFhuXSG/HK6ykLFcCCpQnh8LZ7G7i4nWSNQYrrbPt1wA7TqIdTk2n7i1FnkQr/ACPHQtU/ytKwE2w5USIz0KkWPql0iBr+5WqgLpPyrnXGC3qjY8RQWNwUqRpkimEgFKvTQeulyaAIka8QeMEPMASk2tOwPQpP8qrwg1pgj2gFK/C/0h1tjwspfap6vxh0J++6usst2eYbFuOq+edcmy+Sjm6z+mUTVlAGjFB0m12sXl70+3CKZFkmRo7reh2f5mEB65mLk/sfiDxLAd1EDuaeNthLCw9Uyfefoten22nsKI+uCuWMy4xGOdY6VAmaE5j1sFSXrP85m6iKl5V63Mg6SzshFkZbLov2mukDjP8awI94E3m0I9uaLAAxGqSLpBk2n6annQfs3t0pWdhq2uy33bf/naH/GWaRtc57q96mBlOp7y6uimiqI3CInjeuU15vJikutJdYcnBJkHwQAHrXX6V1KfdrSefRxufUQqrpI0/UMnNjbve1c7UWqx5q3DAZQzb1CrYtASo7yI2/TLFTUOp6c0bre/Gxdqj6OVzvMmwPWWlRuAveZuYsUDmQUrCEk4XX7qgn/RrFyWEoxeznd/26/GND3iYYSfKjlWBxmDV7mlbUCOIpJ7QbYmuPry8VkKCpc82e4PeGx+Jmjf9VJBgu0RqtGyXz+RYCnTz1x3Q4PpL359iA7RPssy26ca8Jtnq+cTlGbPYplW7MnwD4/c2ifFY2HeTwIkk9cJ3fM7DBXyJSTvm26bvcEdt2abGs11ZaxYtV37CjczQMv2I53R742JC/eusFp+hHC6THzXKimoypo3EoF5yLMHQT5YpSQ3wt8lIG/jXfX9v/Vd4PUZNa2ODCi/zzsCFnWUlIKht/uVGGO3YyW0n6G2m1SXxTzKQtZn/f/zQCqEKZW5kc3RyZWFtCmVuZG9iago1IDAgb2JqCjw8Ci9CYXNlRm9udCAvSGVsdmV0aWNhLUJvbGQKL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcKL1N1YnR5cGUgL1R5cGUxCi9UeXBlIC9Gb250Cj4+CmVuZG9iago2IDAgb2JqCjw8Ci9CYXNlRm9udCAvSGVsdmV0aWNhCi9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nCi9TdWJ0eXBlIC9UeXBlMQovVHlwZSAvRm9udAo+PgplbmRvYmoKNyAwIG9iago8PAovRm9udCA8PC9GMSA1IDAgUgovRjIgNiAwIFI+PgovUHJvY1NldCBbL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMgL0ltYWdlSV0KPj4KZW5kb2JqCjggMCBvYmoKPDwKL0NyZWF0aW9uRGF0ZSAoRDoyMDI2MTAwNTEzMDEzMFopCj4+CmVuZG9iagp4cmVmCjAgOQowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAwMTUgMDAwMDAgbiAKMDAwMDAwMDEwMiAwMDAwMCBuIAowMDAwMDAwMjA1IDAwMDAwIG4gCjAwMDAwMDAyODUgMDAwMDAgbiAKMDAwMDAwMjc4MCAwMDAwMCBuIAowMDAwMDAyODgyIDAwMDAwIG4gCjAwMDAwMDI5NzkgMDAwMDAgbiAKMDAwMDAwMzA3NiAwMDAwMCBuIAp0cmFpbGVyCjw8Ci9TaXplIDkKL1Jvb3QgMiAwIFIKL0luZm8gOCAwIFIKL0lEIFs8NzZCM0Q4NDc3MUY2OTQ0ODNDRkFDODYwMzdDNEJERjg+PDc2QjNEODQ3NzFGNjk0NDgzQ0ZBQzg2MDM3QzRCREY4Pl0KPj4Kc3RhcnR4cmVmCjMxMzEKJSVFT0YK
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 4922 >>
+stream
+BT /F2 18 Tf 50.0 792.0 Td (ZAID AFTAB) Tj ET
+BT /F1 11 Tf 50.0 769.3 Td (DevOps Engineer) Tj ET
+BT /F1 9 Tf 50.0 753.5 Td (Patna, Bihar, India | +91 8639093947 | zadaftab@yahoo.com) Tj ET
+BT /F1 9 Tf 50.0 742.1 Td (github.com/Zaid1110 | linkedin.com/in/zaidaftab) Tj ET
+BT /F2 10.5 Tf 50.0 725.8 Td (PROFESSIONAL SUMMARY) Tj ET
+50.0 711.5 m 545.0 711.5 l S
+BT /F1 9 Tf 50.0 705.5 Td (DevOps Engineer with 2+ years of hands-on experience building CI/CD pipelines and running) Tj ET
+BT /F1 9 Tf 50.0 693.2 Td (containerized workloads on AWS \(Jenkins, Docker, Kubernetes/EKS, Terraform, ArgoCD\). CCNA-trained) Tj ET
+BT /F1 9 Tf 50.0 680.9 Td (networking background from hospital IT infrastructure. Built production-style platforms including an) Tj ET
+BT /F1 9 Tf 50.0 668.5 Td (11-microservice application on EKS with GitOps-based delivery.) Tj ET
+BT /F2 10.5 Tf 50.0 653.2 Td (TECHNICAL SKILLS) Tj ET
+50.0 639.0 m 545.0 639.0 l S
+BT /F1 9 Tf 50.0 633.0 Td (CI/CD & Automation: Jenkins \(multibranch pipelines\), GitHub Actions, Git, Nexus, SonarQube, Trivy) Tj ET
+BT /F1 9 Tf 50.0 619.6 Td (Cloud \(AWS\): EKS, EC2, S3, VPC, IAM, ECR, ELB, Auto Scaling, CloudWatch, Route 53, Lambda,) Tj ET
+BT /F1 9 Tf 50.0 607.3 Td (CloudFormation) Tj ET
+BT /F1 9 Tf 50.0 593.9 Td (Containers & Orchestration: Docker, Kubernetes \(Deployments, Services, Ingress, HPA, ConfigMaps,) Tj ET
+BT /F1 9 Tf 50.0 581.6 Td (Secrets\), Helm, NGINX Ingress) Tj ET
+BT /F1 9 Tf 50.0 568.3 Td (Infrastructure as Code: Terraform \(modules, remote state, S3 backend\), Ansible \(playbooks, roles\)) Tj ET
+BT /F1 9 Tf 50.0 554.9 Td (Monitoring & Observability: Prometheus, Grafana, AWS CloudWatch \(alarms, dashboards\)) Tj ET
+BT /F1 9 Tf 50.0 541.6 Td (Scripting & Linux: Bash, Python, AWS CLI, Linux \(Ubuntu, RHEL, Amazon Linux\), systemd, cron) Tj ET
+BT /F1 9 Tf 50.0 528.2 Td (Networking & Security: TCP/IP, DNS, DHCP, VLANs, Cisco routing and switching \(CCNA trained\), IAM least) Tj ET
+BT /F1 9 Tf 50.0 515.9 Td (privilege, Security Groups) Tj ET
+BT /F2 10.5 Tf 50.0 500.6 Td (PROFESSIONAL EXPERIENCE) Tj ET
+50.0 486.3 m 545.0 486.3 l S
+BT /F2 10 Tf 50.0 480.3 Td (DevOps Engineer) Tj ET
+BT /F1 9 Tf 50.0 467.7 Td (Delta 360 Services Pvt Ltd, Noida \(Remote\) | May 2024 - Present) Tj ET
+BT /F1 9 Tf 50.0 454.4 Td (- Build and maintain Jenkins multibranch CI/CD pipelines taking code from commit to deployment on Amazon) Tj ET
+BT /F1 9 Tf 50.0 442.0 Td (  EKS.) Tj ET
+BT /F1 9 Tf 50.0 428.7 Td (- Write and maintain Terraform modules for AWS infrastructure provisioning with remote state management.) Tj ET
+BT /F1 9 Tf 50.0 415.4 Td (- Run GitOps-based deployments with ArgoCD across environments.) Tj ET
+BT /F1 9 Tf 50.0 402.0 Td (- Integrate SonarQube quality gates and Trivy container image scanning into delivery pipelines.) Tj ET
+BT /F1 9 Tf 50.0 388.7 Td (- Set up Prometheus and Grafana monitoring with alerting; manage Docker images, Kubernetes workloads,) Tj ET
+BT /F1 9 Tf 50.0 376.3 Td (  rollbacks and incident troubleshooting with development teams.) Tj ET
+BT /F2 10 Tf 50.0 363.0 Td (Network Engineer) Tj ET
+BT /F1 9 Tf 50.0 350.4 Td (Mahavir Hitech Hospital Pvt Ltd, Patna | June 2023 - May 2024) Tj ET
+BT /F1 9 Tf 50.0 337.1 Td (- Administered hospital LAN/WAN infrastructure: configured and troubleshot Cisco routers, switches,) Tj ET
+BT /F1 9 Tf 50.0 324.7 Td (  VLANs, TCP/IP, DNS and DHCP for clinical and administrative users.) Tj ET
+BT /F1 9 Tf 50.0 311.4 Td (- Monitored network performance and resolved connectivity incidents to keep critical hospital systems) Tj ET
+BT /F1 9 Tf 50.0 299.0 Td (  online.) Tj ET
+BT /F1 9 Tf 50.0 285.7 Td (- Supported end-user systems and enforced network access controls and security policies.) Tj ET
+BT /F2 10.5 Tf 50.0 270.4 Td (PROJECTS) Tj ET
+50.0 256.1 m 545.0 256.1 l S
+BT /F2 9 Tf 50.0 250.1 Td (cloudops-microservices-platform  github.com/Zaid1110/cloudops-microservices-platform) Tj ET
+BT /F1 9 Tf 50.0 237.8 Td (11-microservice platform on Amazon EKS \(Mumbai region\) with 12 Jenkins multibranch pipelines, ArgoCD) Tj ET
+BT /F1 9 Tf 50.0 225.5 Td (GitOps, Helm, NGINX Ingress, HPA, Prometheus and Grafana.) Tj ET
+BT /F2 9 Tf 50.0 212.1 Td (TalentSphere-App  github.com/Zaid1110/TalentSphere-App) Tj ET
+BT /F1 9 Tf 50.0 199.8 Td (Full-stack application \(Spring Boot, React 19/Vite, MySQL\) with end-to-end DevOps pipeline: Jenkins) Tj ET
+BT /F1 9 Tf 50.0 187.4 Td (CI/CD, SonarQube, Trivy, Nexus, Docker, EKS deployment with Helm, NGINX Ingress and HPA.) Tj ET
+BT /F2 9 Tf 50.0 174.1 Td (aws-resource-usage-tracker  github.com/Zaid1110/aws-resource-usage-tracker) Tj ET
+BT /F1 9 Tf 50.0 161.8 Td (AWS CLI and Bash tooling for automated AWS resource usage reporting and cost visibility.) Tj ET
+BT /F2 10.5 Tf 50.0 146.4 Td (EDUCATION) Tj ET
+50.0 132.2 m 545.0 132.2 l S
+BT /F1 9 Tf 50.0 126.2 Td (B.A. \(Honours\) English, Magadh University | 2023 | First Class \(61.4%\)) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5369
+%%EOF
